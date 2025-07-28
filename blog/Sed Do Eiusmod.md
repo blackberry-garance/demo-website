@@ -1,7 +1,7 @@
 ---
 description: Etiam nec dui a lorem molestie efficitur et sit amet libero. Suspendisse sollicitudin justo pretium lobortis sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 authors: [John Doe]
-image: /assets/blog3.jpg
+image: /assets/blog1.jpg
 date: 2024-18-12
 ---
 
